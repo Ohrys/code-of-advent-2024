@@ -56,7 +56,7 @@ def main() :
     safePart2 = part_two(data)
 
     print(f'Part 1 : {safePart1}')
-    print(f'Part 1 : {safePart2}')
+    print(f'Part 2 : {safePart2}')
 
 
 if __name__ == "__main__" :
